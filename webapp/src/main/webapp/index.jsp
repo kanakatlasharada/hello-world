@@ -1,8 +1,8 @@
 <form action="action_page.php">
   <div class="container">
 	
-    <h1>fresh Registration for DevOps preparation</h1>
-    <p> creating  account </p>
+    <h1> Registration for DevOps preparation</h1>
+    <p>   account </p>
     <hr>
      
     <label for="Name"><b> Name</b></label>
