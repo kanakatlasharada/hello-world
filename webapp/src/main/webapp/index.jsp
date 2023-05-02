@@ -2,7 +2,7 @@
   <div class="container">
 	
     <h1> Registration for DevOps preparation</h1>
-    <p>my first account </p>
+    <p>new account creation</p>
     <hr>
      
     <label for="Name"><b>My Name</b></label>
@@ -30,7 +30,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Thankyou, Happy Learning </h1>
+   <h1> Thankyou, Happy Learning...ALL THE BEST </h1>
 
   
 </form>
