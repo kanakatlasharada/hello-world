@@ -2,7 +2,7 @@
   <div class="container">
 	
     <h1> Registration for DevOps preparation</h1>
-    <p>  new account </p>
+    <p>my first account </p>
     <hr>
      
     <label for="Name"><b>My Name</b></label>
