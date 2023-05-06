@@ -16,7 +16,7 @@
     <br>
 
     <label for="psw"><b>Password</b></label>
-    <input type="password" placeholder="Enter Password" name="password" id="password" required>
+    <input type="password" placeholder="Enter Password" name="password" id="pwrd" required>
     <br>
 
     <label for="psw-repeat"><b>Repeat Password</b></label>
